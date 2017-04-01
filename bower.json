@@ -1,0 +1,22 @@
+{
+  "name": "Calendar",
+  "authors": [
+    "Jaden-Giordano <thejadenjack@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar": "^3.3.0",
+    "jquery": "^3.2.1",
+    "moment": "^2.18.1"
+  }
+}
