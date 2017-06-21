@@ -1,8 +1,8 @@
 $(document).ready(function() {
   $('#calendar').fullCalendar({
-    googleCalendarApiKey: 'AIzaSyBffaRJGk2AuZc6_F3QRy2siaMEAkkvGGg',
+    googleCalendarApiKey: 'AIzaSyA0UHHgGpba90ybeOMn14jOJB3BvNMTVzY',
     events: {
-      googleCalendarId: 'dcdlmpiou5onut7b0lsaeiird0@group.calendar.google.com'
+      googleCalendarId: '2kkvqqcmpjf8qg58185hpfqk3s@group.calendar.google.com'
     }
   });
 });
